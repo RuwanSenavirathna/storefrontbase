@@ -7,7 +7,7 @@ In this project, it covers all the areas of the backend part for the fully funct
 ..........
 
 ## Resources
-+ Related Video Series : Starting from https://youtu.be/rHux0gMZ3Eg video. [Code with Mosh - The Ultimate Django Series_ Part 1]
++ Related Video Series : Starting from https://youtu.be/rHux0gMZ3Eg video. [Code with Mosh - The Ultimate Django Series_ Part 1][5 hours, 100 lessons]
 
 
 ## Languages / Covered topics
