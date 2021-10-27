@@ -13,3 +13,4 @@ In this project, it covers all the areas of the backend part for the fully funct
 ## Languages / Covered topics
 + Python, Django
 + LEARN: Django debug toolbar, Django Object-Relational Mapper (ORM), Database design and structure, Fully functioanal Admin Panel
+
